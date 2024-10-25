@@ -1,4 +1,4 @@
-步驟一：請將滑鼠移至剛剛Save 的 windows 10｜11專用.bat 檔案上面，按滑鼠右鍵選擇以記事本方式打開windows 10｜11專用.bat ，
+步驟一：請先將滑鼠移至 windows 10｜11專用.bat 檔案按滑鼠一下，然後後打開Windows 的記事本，將所有內容【複製】貼上記事本內，
 
 <a href="https://ibb.co/dm0Lx3j"><img src="https://i.ibb.co/VpDfMvT/image.png" alt="image" border="0"></a><br />.
 
