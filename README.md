@@ -18,7 +18,7 @@
 
 <a href="https://ibb.co/dm0Lx3j"><img src="https://i.ibb.co/hYRZwnL/image.jpg" alt="image" border="0"></a><br />
 
-步驟四：請將滑鼠移至剛剛Save 的 .bat檔案上面，按右鍵選擇「以系統管理員身份執行」。(此批次檔會自動執行)
+步驟四：請將滑鼠移至剛剛Save 的 .bat檔案上面，然按右鍵選擇「以系統管理員身份執行」(此批次檔會自動執行)。
 
-<a href="https://ibb.co/dm0Lx3j"><img src="https://i.ibb.co/dPNgFH9/image.png " alt="image" border="0"></a><br />
+<a href="https://ibb.co/dm0Lx3j"><img src="https://i.ibb.co/dPNgFH9/image.png" alt="image" border="0"></a><br />
 
