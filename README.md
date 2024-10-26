@@ -1,6 +1,11 @@
 <span style="font-size: small">
 <p>如果您未了解什麼是“KMS激活”，請點擊《<a href="https://learn.microsoft.com/zh-tw/windows-server/get-started/kms-client-activation-keys?tabs=server2025%2Cwindows1110ltsc%2Cversion1803%2Cwindows81" target="_blank">此處</a>》了解更多</p>
 
+<span style="font-size: small">
+<p> KMS 伺服器列表”，請點擊《<a href="https://www.coolhub.top/tech-articles/kms_list.html" target="_blank">此處</a>》</p>
+
+
+
 ---------------------------------------------------------------------------------------------------------
 
 
